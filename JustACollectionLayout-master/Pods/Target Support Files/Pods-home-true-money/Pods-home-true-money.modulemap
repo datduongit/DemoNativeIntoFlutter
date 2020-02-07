@@ -1,0 +1,6 @@
+framework module Pods_home_true_money {
+  umbrella header "Pods-home-true-money-umbrella.h"
+
+  export *
+  module * { export * }
+}
